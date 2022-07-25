@@ -1,0 +1,21 @@
+
+o
+java:S3008"TRename this field "ADDRESS_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¼Ş™ÿÿÿÿÿ
+o
+java:S3008"TRename this field "ADDRESS_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼À¤ÿÿÿÿÿ
+j
+java:S3008"TRename this field "ADDRESS_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ‘Øö
+P
+java:S1118":Add a private constructor to hide the implicit public one.(½ŸÄ¿
+p
+java:S1104"UMake ADDRESS_1 a static final constant or non-public and provide accessors if needed.(È¼Ş™ÿÿÿÿÿ
+p
+java:S1104"UMake ADDRESS_2 a static final constant or non-public and provide accessors if needed.(¼À¤ÿÿÿÿÿ
+k
+java:S1104"UMake ADDRESS_3 a static final constant or non-public and provide accessors if needed.(Ñ‘Øö
+J
+java:S1444"/Make this "public static ADDRESS_1" field final(È¼Ş™ÿÿÿÿÿ
+J
+java:S1444"/Make this "public static ADDRESS_2" field final(¼À¤ÿÿÿÿÿ
+E
+java:S1444"/Make this "public static ADDRESS_3" field final(Ñ‘Øö
